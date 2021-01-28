@@ -8,7 +8,7 @@
   "author": "Patrick K. Moffitt, CSM, M.A.",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^7.1.1",
+    "electron": "^9.4.0",
     "electron-rebuild": "^1.8.8"
   },
   "scripts": {
